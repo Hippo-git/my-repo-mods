@@ -1,0 +1,23 @@
+REPO Homebrew Mods - Installation Guide
+This repository contains custom, verified mods for our REPO sessions. Following these steps ensures your game is synced with the host and prevents crashes.
+
+Quick Install (3 Steps)
+Download the Mods: Click the green < > Code button at the top of this page and select Download ZIP.
+
+Extract the Files: Open your Downloads folder, right-click the homebrew-repo-mods-main.zip, and select Extract All.
+
+Run the Installer: Open the extracted folder and double-click install_mod.bat.
+
+Using the Installer Menu
+When the window opens, you will see three options:
+
+Option 1 (Install/Update): This is the "Magic Button." It will automatically remove any old/conflicting versions of these mods and install the latest versions into a dedicated homebrew folder.
+
+Option 2 (Uninstall): Use this if you want to wipe all homebrew mods and return your game to a standard state.
+
+Option 3 (Exit): Closes the installer.
+
+Troubleshooting
+"Windows Protected Your PC": Because this is a custom .bat file, Windows might show a blue warning. Click "More Info" and then "Run Anyway."
+
+File Not Found: Ensure the .bat file is in the same folder as the Boombox-Smuggler and Teammate_Map_Icons folders when you run it.
